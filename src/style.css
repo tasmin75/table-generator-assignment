@@ -1,0 +1,24 @@
+table,
+tr,
+th,
+td {
+  border: 2px solid;
+  border-collapse: collapse;
+}
+
+.heading {
+  background-color: yellow;
+  border: 2px solid black;
+  border-radius: 0.5rem;
+  color: blue;
+  cursor: pointer;
+}
+
+.heading:hover {
+  color: black;
+}
+
+.input {
+  background-color: oldlace;
+  padding: 0.4rem;
+}
